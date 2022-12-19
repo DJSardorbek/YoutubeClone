@@ -1,0 +1,17 @@
+body {
+    margin-top: 57px;
+    margin-left: 72px;
+    font-family: Roboto, Arial;
+    margin-right: 0;
+}
+
+p{
+    font-family: Roboto, Arial;
+    margin: 0;
+}
+
+@media screen and (max-width: 576px) {
+    body {
+        margin-left: 0;
+    }
+}
